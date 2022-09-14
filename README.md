@@ -30,7 +30,7 @@
 
 <h1 align="center">Connect<h1>
 <p align="center">
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-Sk8c%236555-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-Sk8%236555-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'">
 <a href="https://github.com/Sk8c">
   <img alt="Github" src="https://img.shields.io/github/followers/Sk8c?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'">
 </a>
