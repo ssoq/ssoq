@@ -1,9 +1,9 @@
-<h1 align="center">Heyya, I'm Lulu</h1>
+<h1 align="center">Hello, I'm Lewis</h1>
 <p align="center"><b>Web && Game Developer<b></p>
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Sk8c&show_icons=true&text_color=000&icon_color=000&title_color=000&bg_color=fff" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ssoq&show_icons=true&text_color=000&icon_color=000&title_color=000&bg_color=fff" />
 </p>
  
 <hr>
@@ -30,9 +30,9 @@
 
 <h1 align="center">Connect<h1>
 <p align="center">
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-Sk8%236555-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'">
-<a href="https://github.com/Sk8c">
-  <img alt="Github" src="https://img.shields.io/github/followers/Sk8c?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-sso%235509-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'">
+<a href="https://github.com/ssoq">
+  <img alt="Github" src="https://img.shields.io/github/followers/ssoq?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'">
 </a>
 </p>
 <br>
